@@ -1,0 +1,22 @@
+# Python virtual environment
+venv/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Environment-specific files
+.env
+.env.*
+
+# IDE files
+.vscode/
+.idea/
+*.pydevproject
+*.pyc
+*.pyo
+*.pyd
+*.bak
+*.swp
+*.swp
+*~
