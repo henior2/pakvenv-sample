@@ -1,4 +1,4 @@
-# pakenv
+# pakvenv
 A simple template for a Python program with a virtual environment (`venv`).
 
 ## Features
@@ -9,7 +9,7 @@ A simple template for a Python program with a virtual environment (`venv`).
 ## Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/henior2/pakenv.git --depth 1 PROJECT_NAME_HERE
+   git clone https://github.com/henior2/pakvenv-sample.git --depth 1 PROJECT_NAME_HERE
    ```
 2. Place your Python code in the `src` directory, with `main.py` as the entry point.
 3. Edit `requirements.txt` to include the packages you need.
