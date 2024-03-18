@@ -7,10 +7,12 @@ A simple template for a Python program with a virtual environment (`venv`).
 - Straightforward
 
 ## Usage
+
 1. Clone the repository:
    ```sh
    git clone https://github.com/henior2/pakvenv-sample.git --depth 1 PROJECT_NAME_HERE
    ```
+	**You can also fork the repository and clone your own fork.**
 2. Place your Python code in the `src` directory, with `main.py` as the entry point.
 3. Edit `requirements.txt` to include the packages you need.
 4. Write the code you want to execute during setup in `src/_setup.py`. You can access the `venv` packages from there.
